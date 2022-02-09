@@ -25,7 +25,8 @@ If you want to restore a repository that was part of a fork network that is not 
 
 It can take up to an hour after a repository is deleted before that repository is available for restoration.
 
-Restoring a repository will not restore release attachments or team permissions. Issues that are restored will not be labeled.
+Restor
+ing a repository will not restore release attachments or team permissions. Issues that are restored will not be labeled.
 
 ## Restoring a deleted repository that was owned by a user account
 
